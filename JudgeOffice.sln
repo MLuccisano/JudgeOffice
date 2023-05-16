@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BackendDelivery", "BackendDelivery\BackendDelivery.csproj", "{D111C9DA-999F-4433-9EAB-2F6499C3BF30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversationJudgeOfficeManager", "ConversationJudgeOfficeManager\ConversationJudgeOfficeManager.csproj", "{C585F725-7DFA-48CF-A686-C697FE335776}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D111C9DA-999F-4433-9EAB-2F6499C3BF30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D111C9DA-999F-4433-9EAB-2F6499C3BF30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D111C9DA-999F-4433-9EAB-2F6499C3BF30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D111C9DA-999F-4433-9EAB-2F6499C3BF30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C585F725-7DFA-48CF-A686-C697FE335776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C585F725-7DFA-48CF-A686-C697FE335776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C585F725-7DFA-48CF-A686-C697FE335776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C585F725-7DFA-48CF-A686-C697FE335776}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5B788C7-62DD-4705-986A-BD7164D43C4C}
+	EndGlobalSection
+EndGlobal
